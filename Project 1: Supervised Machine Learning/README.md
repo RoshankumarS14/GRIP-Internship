@@ -16,7 +16,7 @@ The goal of this project is to analyze the relationship between study hours and 
 
 ## 🗂️ Repository Structure
 
-- `Supervised Machine Learning.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the prediction of scores using study hours project.
+- `Prediction using Supervised ML.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the prediction of scores using study hours project.
 - `dataset.csv`: CSV file containing the study hours and scores data used for training and testing the model.
 
 Feel free to explore the Jupyter Notebook (`project_code.ipynb`) for more details, including the code implementations, data analysis, and model evaluation.
