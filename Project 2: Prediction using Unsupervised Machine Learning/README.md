@@ -16,7 +16,7 @@ The goal of this project is to analyze the Iris dataset and group the samples in
 
 ## 🗂️ Repository Structure
 
-- `project_code.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the classification of Iris dataset project.
+- `Prediction using Unsupervised ML.ipynb.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the classification of Iris dataset project.
 - `dataset.csv`: CSV file containing the Iris dataset used for clustering.
 
 Feel free to explore the Jupyter Notebook (`project_code.ipynb`) for more details, including the code implementations, data analysis, and model evaluation.
